@@ -1,0 +1,13 @@
+{
+  "name": "cipp-ai.vercel.app",
+  "version": "0.0.0",
+  "private": true,
+  "packageManager": "pnpm@8.0.0",
+  "engines": { "node": "18.x" },
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
